@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Drinks-rolodex/static/css/main.6531f125.chunk.css",
+    "main.js": "/Drinks-rolodex/static/js/main.7c268cf3.chunk.js",
+    "main.js.map": "/Drinks-rolodex/static/js/main.7c268cf3.chunk.js.map",
+    "runtime-main.js": "/Drinks-rolodex/static/js/runtime-main.6992b734.js",
+    "runtime-main.js.map": "/Drinks-rolodex/static/js/runtime-main.6992b734.js.map",
+    "static/js/2.1e0a16b6.chunk.js": "/Drinks-rolodex/static/js/2.1e0a16b6.chunk.js",
+    "static/js/2.1e0a16b6.chunk.js.map": "/Drinks-rolodex/static/js/2.1e0a16b6.chunk.js.map",
+    "static/js/3.a612b9b8.chunk.js": "/Drinks-rolodex/static/js/3.a612b9b8.chunk.js",
+    "static/js/3.a612b9b8.chunk.js.map": "/Drinks-rolodex/static/js/3.a612b9b8.chunk.js.map",
+    "index.html": "/Drinks-rolodex/index.html",
+    "static/css/main.6531f125.chunk.css.map": "/Drinks-rolodex/static/css/main.6531f125.chunk.css.map",
+    "static/js/2.1e0a16b6.chunk.js.LICENSE.txt": "/Drinks-rolodex/static/js/2.1e0a16b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6992b734.js",
+    "static/js/2.1e0a16b6.chunk.js",
+    "static/css/main.6531f125.chunk.css",
+    "static/js/main.7c268cf3.chunk.js"
+  ]
+}
